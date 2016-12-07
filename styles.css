@@ -35,7 +35,8 @@ h1, h2 {
 }
 
 button {
-  border-radius: 50px;
+  border-radius: 5px 20px 5px;
+  background: #BADA55;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
